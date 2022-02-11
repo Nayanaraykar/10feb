@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+}
+
+.Heading1{
+    color: rgb(110, 6, 26);
+    background-color: darkkhaki;
+    text-decoration: underline dotted purple;
+}
+
+.Heading2{
+    color: royalblue;
+    background-color: salmon;
+
+}
+
+.Heading3{
+ color:teal;
+ background-color: rgb(207, 128, 207);
+}
+
+#Info{
+    color: rgb(15, 37, 131);
+    text-align: justify;
+    text-decoration:none;
+
+}
+
+#biography{
+    color: seagreen;
+    text-align: justify;
+    align-items: center;
+    text-decoration: none;
+}
+
+body{
+    background-color: rgb(187, 228, 208);
+    text-align: center;
+}
+
+.underline{
+    text-decoration:underline blue ;
+}
+
+#image{
+    align-items: center;
+}
